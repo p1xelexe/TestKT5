@@ -23,14 +23,14 @@ review_cs = ("div.container:nth-child(4) div.row div.col-sm-12 div.row div.col-s
 
 # -------------------
 
-first = "uwu"
-last = "uwu"
+first = "pixel"
+last = "exe"
 random_email = random.randrange(1, 1000)
-email = "uwu" + str(random_email) + "@gmail.com"
+email = "exe" + str(random_email) + "@gmail.com"
 tel = "123456789"
-passw = "UwUPass"
-conpassw = "UwUPass"
-reviewt = "UwU review + 24 символа, потому что это очень большая строка"
+passw = "PixelPass"
+conpassw = "PixelPass"
+reviewt = "Pixel review + 24 символа(большая строка)"
 
 # -------------------
 
